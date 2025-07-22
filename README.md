@@ -17,7 +17,7 @@ Hi there, I'm Keanu aka **devbykea** 👋
 ### 🌐 Find me on the web
 
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel)](https://www.devbykea.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/keanu-grandjean](https://www.linkedin.com/in/keanu-g-7258a51a4/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keanu-g-7258a51a4/)
 
 ---
 
