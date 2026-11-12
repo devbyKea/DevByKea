@@ -8,7 +8,7 @@ Hi there, I'm Keanu aka **devbykea** 👋
 - 💼 Looking for a 3-month internship from **Sept 1 to Nov 30, 2025**
 - 🌱 Currently learning: **React, Node.js, PHP, MySQL, MongoDB**
 - 💚 Building projects that are clean, responsive and meaningful
-- 🛠 My latest project: [**Portfolio**](https://www.devbykea.com) – a 3D Portfolio
+- 🛠 My latest project: [**ERP**](https://www.app.gestioncvc.fr) – an ERP for HVAC companies.
 - 🎸 Fun fact: I'm also a **musician** and gliding sports addict (skate, surf, snow)  
 - 📬 How to reach me: [keanucontactpro@gmail.com](mailto:keanucontactpro@gmail.com)
 
